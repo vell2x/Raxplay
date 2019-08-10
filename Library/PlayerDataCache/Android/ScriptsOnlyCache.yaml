@@ -1,0 +1,1372 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - AimBehaviourBasicMobile
+    - AudioManager
+    - BasicBehaviourMobile
+    - ControlsTutorial
+    - FlyBehaviourMobile
+    - HintManagement
+    - MoveBehaviourMobile
+    - ThirdPersonOrbitCamBasicMobile
+    - VirtualAnalog
+    - VirtualButton
+    Bose.Wearable.dll:
+    - Bose.Wearable.ButtonScaleEffect
+    - Bose.Wearable.ButtonSizeEffect
+    - Bose.Wearable.ConcentricLoaderUI
+    - Bose.Wearable.ConnectingWearableConnectDisplay
+    - Bose.Wearable.FailedWearableConnectDisplay
+    - Bose.Wearable.FirmwareWearableConnectDisplay
+    - Bose.Wearable.GestureDetector
+    - Bose.Wearable.RotationMatcher
+    - Bose.Wearable.SafeAreaHelper
+    - Bose.Wearable.SearchingWearableConnectDisplay
+    - Bose.Wearable.SecurePairingWearableConnectDisplay
+    - Bose.Wearable.SignalStrengthIconFactory
+    - Bose.Wearable.SuccessfulWearableConnectDisplay
+    - Bose.Wearable.WarningWearableConnectDisplay
+    - Bose.Wearable.WearableConnectUIPanel
+    - Bose.Wearable.WearableControl
+    - Bose.Wearable.WearableDeviceDisplayButton
+    - Bose.Wearable.WearableProductImageFactory
+    - Bose.Wearable.WearableRequirement
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.AspectRatioFitter
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.ContentSizeFitter
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Mask
+    - UnityEngine.UI.RectMask2D
+    - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Text
+    - UnityEngine.UI.VerticalLayoutGroup
+  sceneClasses:
+    Assets/3rdPerson+Fly(Mobile)/Scenes/3rdPerson+Fly.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9472}
+    - Class: 114
+      Script: {instanceID: 9476}
+    - Class: 114
+      Script: {instanceID: 9484}
+    - Class: 114
+      Script: {instanceID: 9494}
+    - Class: 114
+      Script: {instanceID: 9500}
+    - Class: 114
+      Script: {instanceID: 9510}
+    - Class: 114
+      Script: {instanceID: 9516}
+    - Class: 114
+      Script: {instanceID: 9566}
+    - Class: 114
+      Script: {instanceID: 9576}
+    - Class: 114
+      Script: {instanceID: 9578}
+    - Class: 114
+      Script: {instanceID: 9580}
+    - Class: 114
+      Script: {instanceID: 9584}
+    - Class: 114
+      Script: {instanceID: 9590}
+    - Class: 114
+      Script: {instanceID: 9598}
+    - Class: 114
+      Script: {instanceID: 9606}
+    - Class: 114
+      Script: {instanceID: 9622}
+    - Class: 114
+      Script: {instanceID: 9626}
+    - Class: 114
+      Script: {instanceID: 9634}
+    - Class: 114
+      Script: {instanceID: 9636}
+    - Class: 114
+      Script: {instanceID: 9646}
+    - Class: 114
+      Script: {instanceID: 9658}
+    - Class: 114
+      Script: {instanceID: 9694}
+    - Class: 114
+      Script: {instanceID: 9696}
+    - Class: 114
+      Script: {instanceID: 9716}
+    - Class: 114
+      Script: {instanceID: 9734}
+    - Class: 114
+      Script: {instanceID: 9790}
+    - Class: 114
+      Script: {instanceID: 9834}
+    - Class: 114
+      Script: {instanceID: 9872}
+    - Class: 114
+      Script: {instanceID: 9898}
+    - Class: 114
+      Script: {instanceID: 10046}
+    - Class: 114
+      Script: {instanceID: 10368}
+    - Class: 114
+      Script: {instanceID: 10408}
+    - Class: 114
+      Script: {instanceID: 10590}
+    - Class: 114
+      Script: {instanceID: 10654}
+    - Class: 114
+      Script: {instanceID: 10656}
+    - Class: 114
+      Script: {instanceID: 10690}
+    - Class: 114
+      Script: {instanceID: 10716}
+    - Class: 114
+      Script: {instanceID: 10742}
+    - Class: 114
+      Script: {instanceID: 10986}
+    - Class: 114
+      Script: {instanceID: 11022}
+    - Class: 114
+      Script: {instanceID: 11112}
+    - Class: 114
+      Script: {instanceID: 11116}
+    - Class: 114
+      Script: {instanceID: 11144}
+    - Class: 114
+      Script: {instanceID: 11196}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 134
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 154
+      Script: {instanceID: 0}
+    - Class: 156
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 164
+      Script: {instanceID: 0}
+    - Class: 170
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 218
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 225
+      Script: {instanceID: 0}
+    - Class: 241
+      Script: {instanceID: 0}
+    - Class: 243
+      Script: {instanceID: 0}
+    - Class: 245
+      Script: {instanceID: 0}
+    - Class: 1953259897
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: fd97ffb58da7943546af6781ec9134df
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: GestureDemoUIPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 6fcf2473279c05cb92b4268edb8ed9f6
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: DataMetrics
+  - hash:
+      serializedVersion: 2
+      Hash: 984dcc0ba3707b7691fbdca8ff508d28
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 64ecdad02286adf1713a90397600769c
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: GestureDataDebugUIControl
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: bf530eb47e6a86dcee1d42e40c3b7ac8
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 2bc69f5fbf8d14dfc21268457208f8fe
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: SensorRateDebugUIWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: SingleTouchRecognizer
+  - hash:
+      serializedVersion: 2
+      Hash: 65f067711a159b7c216cf1868981e450
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: WearableControl
+  - hash:
+      serializedVersion: 2
+      Hash: de88ef0d47bad404fdec2170bc7498f3
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: FirmwareWearableConnectDisplay
+  - hash:
+      serializedVersion: 2
+      Hash: 9294178536330be3ee310ea1ef089c78
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: SensorToggleDebugUIControl
+  - hash:
+      serializedVersion: 2
+      Hash: 87273b868a8878c15ba7dffbcc4f50e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MoveBehaviourMobile
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 824ddd8b157512b4d8ca9c54f6ebb20e
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: WearableConnectUIPanel
+  - hash:
+      serializedVersion: 2
+      Hash: e46d6522d2695415da8555dc6bf8470a
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: WearableProductImageFactory
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 31531bdc33002f80995e3fc11faa5fdc
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: WarningWearableConnectDisplay
+  - hash:
+      serializedVersion: 2
+      Hash: 95e61dc81e02fbc66c68e46ec6882334
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: ButtonSizeEffect
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: WearableUIColorStyleId
+  - hash:
+      serializedVersion: 2
+      Hash: 78dc56cb74bfcdd0f90ea56f1161067a
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: DebugUIPanel
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 516824a435828eadd660ef2f1658a48e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 0852116b29df10ce3f9156850d406521
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 3f52d34ea17dfc771004b80f5d492445
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 686dc5ae0550d5cc850c0d1dcce4c018
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 12e64d607873da15ad3f833620350d51
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: 92da9881aed190e8bb74661bcd74aa2c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 06a330481ec400be50745bb7faf76bd0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 97ace6213ad0f149b0917a4c669c6ca3
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 85c97bcc5f84eeb0999d75902803b99d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: fc108ce7d98c40ac0907e8ca7f500c76
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 3ab7272a8b7d3ea5a142e0c9b6aae63b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: cefceb6b9bd7d07893c374eb6e36ef8b
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: ConcentricLoaderUI
+  - hash:
+      serializedVersion: 2
+      Hash: 9e70ecf91466f07d9bd649be625cae52
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 5cae69850eed76e5dbc3f256dab911fd
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: VersionUIPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 66847d3e14d865a75e1e70f5a5d9092f
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: SafeAreaHelper
+  - hash:
+      serializedVersion: 2
+      Hash: 6a5281816cc5ae8fa3149cc41472ddb3
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: RotationMatcher
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 516824a435828eadd660ef2f1658a48e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 0852116b29df10ce3f9156850d406521
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 3f52d34ea17dfc771004b80f5d492445
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 686dc5ae0550d5cc850c0d1dcce4c018
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 12e64d607873da15ad3f833620350d51
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: 92da9881aed190e8bb74661bcd74aa2c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 06a330481ec400be50745bb7faf76bd0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 97ace6213ad0f149b0917a4c669c6ca3
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 85c97bcc5f84eeb0999d75902803b99d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: fc108ce7d98c40ac0907e8ca7f500c76
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 3ab7272a8b7d3ea5a142e0c9b6aae63b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 807e6415771843947c95b3f988da47bd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AudioManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: b06f20e7fb93b6abe446f31d646bf0bb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ResonanceAudioListener
+  - hash:
+      serializedVersion: 2
+      Hash: 879e749d05520dad82ee0d5287484325
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: BasicDemoUIPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 5817f46d42b96c7f1c77152eb1a3307b
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: SearchingWearableConnectDisplay
+  - hash:
+      serializedVersion: 2
+      Hash: f08a111e17bb701f9c9ec57bb78d9920
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 3ba015769ebd3776f77a8f94ae2166fd
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: SecurePairingWearableConnectDisplay
+  - hash:
+      serializedVersion: 2
+      Hash: 2dcefe79d341c0696dda7de7035d2814
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: DraggableUIButtonSnapArea
+  - hash:
+      serializedVersion: 2
+      Hash: 2b576aa42bbba97a7858a792086782fb
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: WearableRequirement
+  - hash:
+      serializedVersion: 2
+      Hash: 00274a21279f5cb831ce20f895049e38
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 78191eb74eb41d17a1a48c51f22304e1
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: GestureDebugUIWindow
+  - hash:
+      serializedVersion: 2
+      Hash: d7737a35547e661e540469ced76b87f3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DemoPlayerController
+  - hash:
+      serializedVersion: 2
+      Hash: 780e8f682b3221346c034a6712a0fd25
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ResonanceAudioMaterialMapperUpdater
+  - hash:
+      serializedVersion: 2
+      Hash: 303ad70ce203ad874efe2965d0fbcff9
+    assemblyName: Unity.Analytics.Tracker.dll
+    namespaceName: UnityEngine.Analytics
+    className: AnalyticsEventTracker
+  - hash:
+      serializedVersion: 2
+      Hash: 7fb9de8dcf73854b6b328eca1f7a6e6d
+    assemblyName: Unity.Analytics.Tracker.dll
+    namespaceName: UnityEngine.Analytics
+    className: AnalyticsTracker
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: f9cc9d777a53ed68fd1e4f348561bd06
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: SensorUpdateIntervalLabelFactory
+  - hash:
+      serializedVersion: 2
+      Hash: 3890bd6e33599e2abdddb75587d08d83
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: VirtualButton
+  - hash:
+      serializedVersion: 2
+      Hash: b8a5e8091ab0b8861d2add371082c5e0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: c70c350b269bc9bda66fc6c0185d268e
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: ScaleUncertaintyCone
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 5cca62e2997a2c7f44c812a72d2fae04
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: SensorRateToggleDebugUIControl
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: ReturnToMainMenuOnDisconnect
+  - hash:
+      serializedVersion: 2
+      Hash: 0c287ef3aa22922b890ab38538695077
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Proxy
+    className: WearableProxyServer
+  - hash:
+      serializedVersion: 2
+      Hash: b92e38c06f34871515c9b102fcbc7ae1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ResonanceAudioDemoManager
+  - hash:
+      serializedVersion: 2
+      Hash: 2430215e1e7f6b50d1cfb2c846896fd8
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Proxy
+    className: WearableProxyServerUI
+  - hash:
+      serializedVersion: 2
+      Hash: b3ab2106268377ffe25dd18ac23dca28
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Asset
+  - hash:
+      serializedVersion: 2
+      Hash: b975de37d483a81fb2149964490c8298
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: AutoConfigureHorizontalGridLayout
+  - hash:
+      serializedVersion: 2
+      Hash: 2a9f86000e9fe772de11dba4b51b5a80
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: GestureToggleDebugUIControl
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 69264be1a661063fef11e7415dc78e4f
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: AppIntentProfile
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ResonanceAudioDemoCubeController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: AppRoot
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Analytics.Editor.dll
+    namespaceName: UnityEditor.Analytics
+    className: AnalyticsEventTrackerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 9d4bbcdd22ed7dbad0000a8abb41ce59
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ResonanceAudioMaterialMapper
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 1264be07390ac1f64796253aee8ca573
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: TimingDebugUIWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 42cf7cca4cb0f9910c041c6cc6650638
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ResonanceAudioMaterialMap
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: DontDestroyOnLoad
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: f805d4923764cb49b784c7c7f2d7d696
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ThirdPersonOrbitCamBasicMobile
+  - hash:
+      serializedVersion: 2
+      Hash: 3a9e8581e12e3919be7fbbcff8e10fb0
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: WearableUIColorPalette
+  - hash:
+      serializedVersion: 2
+      Hash: 5204b93ac72cf71ae306b52ba748f294
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ResonanceAudioSource
+  - hash:
+      serializedVersion: 2
+      Hash: 2bf4d50173c38b22d1f20412e745ddee
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: CalibrationUIPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 61a989ebe4c50af261ce1e888290a35e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ControlsTutorial
+  - hash:
+      serializedVersion: 2
+      Hash: bffcadb9797d8be363f802c42841d9a7
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: NonDrawingGraphic
+  - hash:
+      serializedVersion: 2
+      Hash: 208ff5d5fc00ea7d60688929f13acd48
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: TargetController
+  - hash:
+      serializedVersion: 2
+      Hash: 9f21b7a2a22b0e027502ab6530adef81
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: LoadingUIPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 32e5243667b95a087b992cb7021e713d
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: InfoUIPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 6a62f4d2c941994ea638cd375d6427ec
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: AdvancedDemoController
+  - hash:
+      serializedVersion: 2
+      Hash: 3f8d7b92a6be3c715e55d5cfa7cc8384
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: bcd72dcbde2fc64a1b47cf955513622d
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: GestureIconFactory
+  - hash:
+      serializedVersion: 2
+      Hash: 35a9693c388776aaf487636491a20f11
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: e1300922cc039f41ab46a47f4cb05898
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 88cc9df3c6fc697bfbeacd24c0d6f2d7
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 88cc9df3c6fc697bfbeacd24c0d6f2d7
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: EnumerableSetUpTearDownCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 259d013faac28e8ba0aa2a7542273735
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 1802fd703fbf0baba60d40c8c76e6864
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FlyBehaviourMobile
+  - hash:
+      serializedVersion: 2
+      Hash: b8d35c888b89ce104f297884dc4cff9c
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: WearableModelLoader
+  - hash:
+      serializedVersion: 2
+      Hash: a457a6d14e3cfbcf58a11cfe5cb3bb66
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: DeviceInfoDebugUIControl
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 444398bc4fb783b0b448ac3c979214e1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ResonanceAudioRoom
+  - hash:
+      serializedVersion: 2
+      Hash: e5b5ac4d4e9aa9845257d7d5e90c592d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: VirtualAnalog
+  - hash:
+      serializedVersion: 2
+      Hash: f665dfdb70bad5be23601d882507c2ff
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BasicBehaviourMobile
+  - hash:
+      serializedVersion: 2
+      Hash: da46c5f6c6a9425ff2a57a3d505de180
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: GestureDetector
+  - hash:
+      serializedVersion: 2
+      Hash: b949d33b7810e0d03015193b4a496090
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: GestureDisplay
+  - hash:
+      serializedVersion: 2
+      Hash: ee0cef6caaac8ae485bfa82f000f0f7b
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: acf8c1266d6317ca06015994b9374efd
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: ButtonScaleEffect
+  - hash:
+      serializedVersion: 2
+      Hash: dbfe85a2a38df1df7eba0f50020e035b
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: FailedWearableConnectDisplay
+  - hash:
+      serializedVersion: 2
+      Hash: 516824a435828eadd660ef2f1658a48e
+    assemblyName: Unity.Analytics.DataPrivacy.dll
+    namespaceName: UnityEngine.Analytics
+    className: DataPrivacyButton
+  - hash:
+      serializedVersion: 2
+      Hash: 0ef3a3d6e369bade685fa1dae589a944
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: DraggableUIButton
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 264440c2a9209c9bacf287e3f708ff57
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: RotationDataToggleDebugUIControl
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: BasicDemoController
+  - hash:
+      serializedVersion: 2
+      Hash: 1a420a70f62b5d9836ee705b8ab616d1
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: CameraController
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: ce68056b8ba15857f81bab27beca7e6a
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: WearableDeviceDisplayButton
+  - hash:
+      serializedVersion: 2
+      Hash: 4a801da55f8ffccfd58f66e298bea0b7
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: MainMenuUIPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 124198725804a15a25bbf224f0492d4e
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: AdvancedDemoUIPanel
+  - hash:
+      serializedVersion: 2
+      Hash: d791aa6007fa3640be1164ea75bb087d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 8e7b54fccfbde1b78ac0756ee4faccbf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ResonanceAudioReverbProbe
+  - hash:
+      serializedVersion: 2
+      Hash: 5a25dcf941547345b72482455cb6b599
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: SignalStrengthIconFactory
+  - hash:
+      serializedVersion: 2
+      Hash: 57177aac25cc8f2381c414998c7abf6c
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable.Examples
+    className: TargetSFX
+  - hash:
+      serializedVersion: 2
+      Hash: 5372ed2ce39229b1ac910757999a8be2
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: a3cdd613319c17187c974c8b4b560cf4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HintManagement
+  - hash:
+      serializedVersion: 2
+      Hash: 9c7d0ffb4097a489617044fa18f4ee9b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AimBehaviourBasicMobile
+  - hash:
+      serializedVersion: 2
+      Hash: 8649814970b42d345b89944b862453cc
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: a9f72ddfea63e9e423ad47d4b186f2d1
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: ConnectingWearableConnectDisplay
+  - hash:
+      serializedVersion: 2
+      Hash: 087dc3b57a22973f294f1678b9ba486c
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: DataDebugUIWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 19944d3fea663ade4ee9fc17ff5eec05
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: AudioControl
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 095e268a7885193e4e824b785da93872
+    assemblyName: Bose.Wearable.dll
+    namespaceName: Bose.Wearable
+    className: SuccessfulWearableConnectDisplay
+  platform: 13
+  scenePathNames:
+  - Assets/3rdPerson+Fly(Mobile)/Scenes/3rdPerson+Fly.unity
+  playerPath: C:/Users/vell6/OneDrive/Desktop/projects/RaxplayAndroid/raxplayAndroidBuild.apk
